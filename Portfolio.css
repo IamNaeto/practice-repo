@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    background-color: black;
+    margin: 0%;
+    padding: 10px;
+}
+#inline li {
+    display:inline;
+}
+.Bio {
+    font-size: 40px;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+.Info {
+    font-size: 40px;
+    font-family: cursive;
+    color: yellow;
+}
+.item {
+    font-size: 20px;
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    list-style: none;
+    padding: 8px;
+    border-radius: 10px;
+}
+.item >a:hover {
+    background-color:#eec861;
+    color: brown;
+}
+.reg {
+    font-size: 20px;
+    color: black;
+    margin: 10px;
+    background-color: yellow;
+    padding: 8px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.reg >a:hover  {
+    background-color: white;
+    color: brown;
+}
+.MyPage {
+    text-align: left;
+    background-color: #eec861;
+    padding:70px 30px 50px 30px
+}
+.holla {
+    font-size: 25px;
+    color: brown;
+}
+.heading {
+    color: white;
+    font-size: 55px;
+}
+.namecolor {
+    color: blue;
+}
+.headingtext {
+    font-size: 25px;
+    color: brown;
+}
+img {
+    width:30%;
+    border-radius: 30px;
+}
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 20;
+}
